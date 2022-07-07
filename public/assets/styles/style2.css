@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+.navbar{
+    padding: 50px;
+}
+#Home{
+    margin: auto;
+}
+#About{
+    margin:auto;
+}
